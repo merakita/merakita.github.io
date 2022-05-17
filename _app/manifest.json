@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9621c641.js",
+    "file": "start-995f2da0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -81,7 +81,7 @@
     ]
   },
   "src/routes/datenschutz.svelte": {
-    "file": "pages/datenschutz.svelte-1bc501fe.js",
+    "file": "pages/datenschutz.svelte-9f8aa425.js",
     "src": "src/routes/datenschutz.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -89,11 +89,11 @@
       "_vendor-80f55c88.js"
     ],
     "css": [
-      "assets/pages/datenschutz.svelte-acce1581.css"
+      "assets/pages/kontakt.svelte-209f3076.css"
     ]
   },
   "src/routes/copyright.svelte": {
-    "file": "pages/copyright.svelte-52621b4b.js",
+    "file": "pages/copyright.svelte-e567df03.js",
     "src": "src/routes/copyright.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -117,7 +117,7 @@
     ]
   },
   "src/routes/kontakt.svelte": {
-    "file": "pages/kontakt.svelte-ef5001ba.js",
+    "file": "pages/kontakt.svelte-8880e9d3.js",
     "src": "src/routes/kontakt.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -125,7 +125,7 @@
       "_vendor-80f55c88.js"
     ],
     "css": [
-      "assets/pages/datenschutz.svelte-acce1581.css"
+      "assets/pages/kontakt.svelte-209f3076.css"
     ]
   },
   "src/routes/termine/index.svelte": {
@@ -143,7 +143,7 @@
     ]
   },
   "src/routes/ueber.svelte": {
-    "file": "pages/ueber.svelte-f5e856b9.js",
+    "file": "pages/ueber.svelte-dbe1f1af.js",
     "src": "src/routes/ueber.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
